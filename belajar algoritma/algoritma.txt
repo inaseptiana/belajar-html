@@ -1,0 +1,9 @@
+input 1
+86 fahrenheit
+output 1 : 30
+input 2
+45 celcius
+output 2 45
+
+86 fahrenheit > celcius = (86 - 32) * 5/9 = 30 celcius
+45 celcius = 45 celcius

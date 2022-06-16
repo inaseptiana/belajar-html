@@ -1,0 +1,30 @@
+input n = 20
+untuk kelipatan 3 = fizz
+untuk kelipatan 5 = buzz
+untuk kelipatan 3 dan 5 = fizzBuzz
+
+keterangan
+bukan kelipatan : " ~ "
+adalah kelipatan :" = "
+maka di tulis : >
+
+1 bukan kelipatan 3 atau 5 maka di tulis bilangan tersebut = 1
+2 bukan kelipatan 3 atau 5 maka di tulis bilangan tersebut : 2
+3 adalah kelipatan 3 maka di tulis : fizz
+4 bukan kelipatan 3 atau 5 maka di tulis bilangan tersebut : 4
+5 adalah kelipatan 5 maka di tulis : Buzz
+6 adalah kelipatan 3 maka di tulis : Fizz
+7 bukan kelipatan 3 atau 5 maka di tulis bilangan tersebut : 7
+8 bukan kelipatan 3 atau 5 maka di tulis bilangan tersebut : 8
+9 = 3 maka ditulis : Fizz
+10 = 5 maka di tulis : Bizz
+11 ~  > : 11
+12 = 3 > : Fizz
+13 ~ > : 13
+14 ~ > : 14
+15 = 5,3 > : FizzBuzz
+16 ~ > : 16
+17 ~ > : 17
+18 = 3 > : Fizz
+19 ~ > : 19
+20 = 5 > : Buzz

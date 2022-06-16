@@ -1,0 +1,10 @@
+const nilai = 60;
+if (nilai >= 80) {
+    console log ("nilainya A");
+} else if (nilai >= 60 && nilai < 80){
+    console log ("nilai B");
+} else (nilai >= 40 && nilai < 60) {
+    console log ("nilai C");
+} else
+{console log ("di panggil ke ruang guru")}
+
