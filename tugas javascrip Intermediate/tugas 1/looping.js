@@ -25,7 +25,6 @@ function searchInArray(arr, num) {
   const number = arr.map((item) => item === num);
   console.log(num);
 }
-
 console.log(searchInArray(arr4, 3));
 console.log(searchInArray(arr4, 2));
 console.log(searchInArray(arr4, 4));
